@@ -16,4 +16,16 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Page Structure
+#### Welcome Page
+```
+    /welcome
+```
+#### Login Page
+```
+    /login
+```
+#### Main Page
+```
+    /main
+```
 
