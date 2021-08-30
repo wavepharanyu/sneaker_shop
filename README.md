@@ -16,16 +16,24 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Page Structure
-#### Welcome Page
+#### Home Page
 ```
-    /welcome
+    / 
 ```
-#### Login Page
+#### Product Detail Page
 ```
-    /login
+    /products-detail/:productId แสดงรายละเอียดสินค้า
 ```
-#### Main Page
+#### Cart Page
 ```
-    /main
+    /cart แสดงตะกร้าสินค้า สามารถลบ แก้ไขสินค้า และคืดเงินได้
+```
+#### Orders Page
+```
+    /orders แสดง order สินค้า
+```
+#### Products Page
+```
+    /orders แสดงสินค้า สามารถเพิ่ม ลบ แก้ไขสินค้าที่จะขายได้
 ```
 
