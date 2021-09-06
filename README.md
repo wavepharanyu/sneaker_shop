@@ -4,8 +4,9 @@
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
-### `json-server --watch db.json --port 3001`
+### `json-server --watch db.json --port 3001 (run for backend)` 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
