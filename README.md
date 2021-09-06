@@ -19,6 +19,7 @@ You will also see any lint errors in the console.
 - react-router
 - styled-components
 - axios
+- json-server
 
 ## Page Structure
 #### Home Page
